@@ -12,3 +12,6 @@
     - `diff --staged`: shows you the diff of the files in the staging area
 
 -`restore --staged <FILE>`: unstages <FILE> from the staging area
+
+
+Changes I dont want
